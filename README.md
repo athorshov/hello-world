@@ -4,4 +4,4 @@ I am a third year undergraduate at UC San Diego. I like to work in my lab, go su
 
 Physics and Machine learning are amazing!
 
-check 1 2 3 
+check 1 2 3  
